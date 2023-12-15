@@ -1,0 +1,458 @@
+[
+    {
+        "_id": {
+            "$oid": "64392d39dfd90fb29e464fb7"
+        },
+        "title": "Mercedes-Benz S-Class",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience. ",
+        "price": "₹1.1 crore",
+        "address": "Street 1",
+        "city": "Chennai",
+        "country": "India",
+        "image": "https://parkers-images.bauersecure.com/gallery-image/pagefiles/317963/1752x1168/mercedes_sclass_050.jpg",
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:38:48.762Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:38:48.762Z"
+        },
+        "specifications": {
+            "Engine": "V8",
+            "Fuel Efficiency": "7-13",
+            "Safety": "Adaptive Cruise Control "
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392e0bdfd90fb29e464fbc"
+        },
+        "title": "BMW 7 Series",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹1 crore",
+        "address": "Street 2",
+        "city": "Jaipur",
+        "country": "India",
+        "image": "https://cdn.bmwblog.com/wp-content/uploads/2019/01/BMW-Individual-7-Series-Facelift-11.jpg",
+        "specifications": {
+            "Engine": "V8",
+            "Fuel Efficiency": "7-12",
+            "Safety": "Adaptive Cruise Control "
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:42:19.231Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:42:19.231Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6439001c74446601d6fce96d"
+        },
+        "title": "Audi A8",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹90 lack",
+        "address": "Street 3",
+        "city": "Kolkata",
+        "country": "India",
+        "image": "https://cdn.carbuzz.com/gallery-images/1600/500000/300/500362.jpg",
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T07:26:20.051Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T07:26:20.051Z"
+        },
+        "specifications": {
+            "Engine": "V6",
+            "Fuel Efficiency": "10-15",
+            "Safety": "Parking Assistance"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392e1edfd90fb29e464fbd"
+        },
+        "title": "Lexus LS",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹1.20 crore",
+        "address": "Street 4",
+        "city": "Pune",
+        "country": "India",
+        "image": "https://images.hgmsites.net/hug/2018-lexus-ls_100623535_h.jpg",
+        "specifications": {
+            "Engine": "V6",
+            "Fuel Efficiency": "10-15",
+            "Safety": "Parking Assistance"
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:42:37.946Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:42:37.946Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392d67dfd90fb29e464fb8"
+        },
+        "title": "Jaguar XJ",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹75 lakh",
+        "address": "Street 5",
+        "city": "Ahmedabad",
+        "country": "India",
+        "image": "https://img.indianauto.com/2020/01/20/l2AZQYjw/jaguar-xf-black-front-angle-043d.jpg",
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:39:35.044Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:39:35.044Z"
+        },
+        "specifications": {
+            "Engine": "V8",
+            "Fuel Efficiency": "8-15",
+            "Safety": "Automatic Emergency Braking"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392df2dfd90fb29e464fbb"
+        },
+        "title": "Porsche Panamera",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹1.02 crore",
+        "address": "Street 6",
+        "city": "Nagpur",
+        "country": "India",
+        "image": "https://2.bp.blogspot.com/-d9hnJ2EKwRM/WCO3J3UjA7I/AAAAAAAAaRU/wvXK6G_WTSgvkFtuHV4bMFN3qjG7-PblgCLcB/s1600/Panamera%2B10.jpg",
+        "specifications": {
+            "Engine": "V8",
+            "Fuel Efficiency": "6-10",
+            "Safety": "Collision Avoidance Systems"
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:41:54.156Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:41:54.156Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392e32dfd90fb29e464fbe"
+        },
+        "title": "Tesla Model S",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹85 lakh",
+        "address": "Street 7",
+        "city": "Lucknow",
+        "country": "India",
+        "image": "https://th.bing.com/th/id/OIP.EzQQOec3fdn2GIKmzlXV5QHaEo?rs=1&pid=ImgDetMain",
+        "specifications": {
+            "Engine": "Electric powertrain",
+            "Fuel Efficiency": "500",
+            "Safety": "Parking Assistance"
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:42:58.826Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:42:58.826Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392e46dfd90fb29e464fbf"
+        },
+        "title": "Aston Martin DB11",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹2.25 crore",
+        "address": "Street 8",
+        "city": "Surat",
+        "country": "India",
+        "image": "https://static.businessinsider.com/image/56d5c8182e5265b6008ba7f9/image.jpg",
+        "specifications": {
+            "Engine": "V12",
+            "Fuel Efficiency": "5-9",
+            "Safety": "Collision Avoidance Systems"
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:43:18.186Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:43:18.186Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392e57dfd90fb29e464fc0"
+        },
+        "title": "Bentley Continental GT",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹1.90 crore",
+        "address": "Street 9",
+        "city": "Kochi",
+        "country": "India",
+        "image": "https://media.autoexpress.co.uk/image/private/s--kMGIWyBb--/v1562247430/autoexpress/2019/03/bentley-continental-gt-v8-2.jpg",
+        "specifications": {
+            "Engine": "V6",
+            "Fuel Efficiency": "7-12",
+            "Safety": "Parking Assistance"
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:43:35.761Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:43:35.761Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392e69dfd90fb29e464fc1"
+        },
+        "title": "Rolls-Royce Phantom",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹5.40 crore",
+        "address": "Street 10",
+        "city": "Thiruvananthapuram",
+        "country": "India",
+        "image": "https://images.hdqwalls.com/wallpapers/rolls-royce-phantom-ewb-chengdu-2018-en.jpg",
+        "specifications": {
+            "Engine": "V12",
+            "Fuel Efficiency": "6-10",
+            "Safety": "Adaptive Cruise Control "
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:43:53.665Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:43:53.665Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "643a30b60c4348510952923a"
+        },
+        "title": "Maserati Quattroporte",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹95 lakh",
+        "address": "Street 11",
+        "city": "Jamshedpur",
+        "country": "India",
+        "image": "https://s3.caradvice.com.au/wp-content/uploads/2014/01/2014-Maserati-Quattroporte-13.jpg",
+        "specifications": {
+            "Engine": "V6",
+            "Fuel Efficiency": "7-12",
+            "Safety": "Collision Avoidance Systems"
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-15T05:05:58.189Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-15T05:05:58.189Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "643900fa74446601d6fce96e"
+        },
+        "title": "Cadillac CT6",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹75 lakh",
+        "address": "Street 12",
+        "city": "Chandigarh",
+        "country": "India",
+        "image": "https://th.bing.com/th/id/R.9371706347360bf13485d5bd9a7b8288?rik=mg43IhR8ABW1cg&riu=http%3a%2f%2fimages.hgmsites.net%2fhug%2f2016-cadillac-ct6_100543677_h.jpg&ehk=id0i%2f7oroL69WAv6PsESYSz9aLjsrceLSOClOg9At8k%3d&risl=&pid=ImgRaw&r=0",
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T07:29:58.262Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T07:29:58.262Z"
+        },
+        "specifications": {
+            "Engine": "V6",
+            "Fuel Efficiency": "6-9",
+            "Safety": "Automatic Emergency Braking"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6439011d74446601d6fce96f"
+        },
+        "title": "Lamborghini Urus",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹3.40 crore",
+        "address": "Street 13",
+        "city": "Calicut",
+        "country": "India",
+        "image": "https://www.hdcarwallpapers.com/walls/mansory_lamborghini_urus_2020_5k-HD.jpg",
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T07:30:36.761Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T07:30:36.761Z"
+        },
+        "specifications": {
+            "Engine": "V8",
+            "Fuel Efficiency": "5-9",
+            "Safety": "Collision Avoidance Systems"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "64392ddddfd90fb29e464fba"
+        },
+        "title": "Ferrari Roma",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹4.40 crore",
+        "address": "Street 14",
+        "city": "Hyderabad",
+        "country": "India",
+        "image": "https://www.hdwallpapers.in/download/red_ferrari_roma_2021_5_4k_5k_hd_cars-HD.jpg",
+        "specifications": {
+            "Engine": "V8",
+            "Fuel Efficiency": "4-7",
+            "Safety": "Collision Avoidance Systems"
+        },
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T10:41:32.998Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T10:41:32.998Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6438ffdd74446601d6fce96c"
+        },
+        "title": "Lamborghini Avantador",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹6.20 crore",
+        "address": "Street 15",
+        "city": "Delhi",
+        "country": "India",
+        "image": "https://www.fxuk.net/wp-content/uploads/2019/03/svj-lambo-2.jpg",
+        "userEmail": "mukhtarhamza294@gmail.com",
+        "createdAt": {
+            "$date": "2023-04-14T07:25:13.156Z"
+        },
+        "updatedAt": {
+            "$date": "2023-04-14T07:25:13.156Z"
+        },
+        "specifications": {
+            "Engine": "V12",
+            "Fuel Efficiency": "4-6",
+            "Safety": "Night Vision"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "645cd0d8616ffb7ce699bb8e"
+        },
+        "title": "Volvo S90",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹63 lakh",
+        "address": "Street 16",
+        "city": "Agra",
+        "country": "India",
+        "image": "https://d3lp4xedbqa8a5.cloudfront.net/s3/digital-cougar-assets/whichcar/2016/10/13/7627/2016-Volvo-S90-front.jpg",
+        "specifications": {
+            "Engine": "V6",
+            "Fuel Efficiency": "13-18",
+            "Safety": "Adaptive Cruise Control "
+        },
+        "userEmail": "ahmadrao925@gmail.com",
+        "createdAt": {
+            "$date": "2023-05-11T11:26:15.44Z"
+        },
+        "updatedAt": {
+            "$date": "2023-05-11T11:26:15.44Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "645e27938b90ba42adbed599"
+        },
+        "title": "Range Rover Velar",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹86 lakh",
+        "address": "Street 17",
+        "city": "Bangalore",
+        "country": "India",
+        "image": "https://media.autoexpress.co.uk/image/private/s--W4pRjub7--/v1575996490/autoexpress/2019/12/01_0.jpg",
+        "specifications": {
+            "Engine": "V8",
+            "Fuel Efficiency": "10-14",
+            "Safety": "Automatic Emergency Braking"
+        },
+        "userEmail": "zain@gaintime.io",
+        "createdAt": {
+            "$date": "2023-05-12T11:48:35.028Z"
+        },
+        "updatedAt": {
+            "$date": "2023-05-12T11:48:35.028Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "6460802e05fa5b3fd0527f65"
+        },
+        "title": "Porsche Taycan",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹98 lakh",
+        "address": "Street 18",
+        "city": "Delhi",
+        "country": "India",
+        "image": "https://www.teslarati.com/wp-content/uploads/2019/09/Taycan-Turbo-1-e1576082527217.jpg",
+        "specifications": {
+            "Engine": "V8",
+            "Fuel Efficiency": "6-10",
+            "Safety": "Collision Avoidance Systems"
+        },
+        "userEmail": "ahmadrao925@gmail.com",
+        "createdAt": {
+            "$date": "2023-05-14T06:31:09.883Z"
+        },
+        "updatedAt": {
+            "$date": "2023-05-14T06:31:09.883Z"
+        }
+    },
+    {
+        "_id": {
+            "$oid": "648a1ed5d52203e45f037608"
+        },
+        "title": "Bentley Mulsanne",
+        "description": "Immerse yourself in premium comfort, advanced features, and timeless style, all with the assurance of quality and performance that defines the luxury driving experience.",
+        "price": "₹1 crore",
+        "address": "Street 19",
+        "city": "Mumbai",
+        "country": "India",
+        "image": "https://pictures.topspeed.com/IMG/jpg/201807/bentley-mulsanne-w-o-8.jpg",
+        "specifications": {
+            "Engine": "V6",
+            "Fuel Efficiency": "7-11",
+            "Safety": "Automatic Emergency Braking"
+        },
+        "userEmail": "zain@gaintime.io",
+        "createdAt": {
+            "$date": "2023-06-14T20:11:01.081Z"
+        },
+        "updatedAt": {
+            "$date": "2023-06-14T20:11:01.081Z"
+        }
+    }
+]
